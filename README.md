@@ -315,7 +315,7 @@ Kết quả:
 
 ## Bảng - Table
 
-Để tạo bảng `<table>`, dùng cách sau
+Để tạo bảng `<table><tbody><tr><th><th>`, bạn chỉ cần ngăn cách bởi dấu | và cách đầu bảng với thân bảng bằng :--- (số dấu - tuỳ ý)
 
 Cú pháp:
 ```
