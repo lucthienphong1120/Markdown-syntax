@@ -1,12 +1,12 @@
 # Giới thiệu
 
-Đã có ai dùng **GitHub** bao lâu nay vẫn không biết các tệp với đuôi mở rộng .md là gì không?
+Đã có ai dùng `GitHub` bao lâu nay vẫn không biết các tệp với đuôi mở rộng .md là gì không?
 
-**Markdown** là ngôn ngữ đánh dấu được John Gruber tạo ra vào năm 2004. **Markdown** sử dụng cú pháp khá đơn giản và dễ hiểu để đánh dấu văn bản, tạo thuận tiện cho việc chuyển đổi từ văn bản thuần sang **HTML**.
+`Markdown` là ngôn ngữ đánh dấu được John Gruber tạo ra vào năm 2004. `Markdown` sử dụng cú pháp khá đơn giản và dễ hiểu để đánh dấu văn bản, tạo thuận tiện cho việc chuyển đổi từ văn bản thuần sang `HTML`.
 
-Thay vì dựa vào **HTML**, **Markdown** cho phép bạn định dạng văn bản mà trực quan hơn nhiều so với **HTML**.
+Thay vì dựa vào `HTML`, `Markdown` cho phép bạn định dạng văn bản mà trực quan hơn nhiều so với `HTML`.
 
-Có thể bạn chưa biết: **Markdown** được sử dụng tại **Github** và **Discord**.
+Có thể bạn chưa biết: `Markdown` có thể được sử dụng tại `Github` và `Discord`.
 
 > Tài liệu được viết tay bởi [Lục Thiên Phong](https://github.com/lucthienphong1120), để giúp bạn có thêm hiểu biết và làm chủ về Markdown.
 
@@ -42,7 +42,7 @@ Sự thật là cái tên **"Markdown"** chính là một phép chơi chữ củ
 
 Mardown được sử dụng để xuất văn bản thô trên trình duyệt nhưng các ngôn ngữ đánh dấu khác lại có thể giao tiếp trực tiếp với máy tính. Đơn cử như `XML` là một ngôn ngữ đánh dấu văn bản mà cả con người lẫn máy móc có thể đọc được.
 
-Một ngôn ngữ đánh dấu văn bản khác mà mọi người chắc hẳn ai học CNTT cũng biết vì độ nổi tiếng của nó, chính là `HTML`, `Markdown` không mang trong mình sứ mệnh "Kẻ huỷ diệt HTML" hay gì, mà mục đích của nó chính là làm đơn giản hoá việc đánh dấu văn bản và tăng cường tốc độ viết lách một cách đáng kể.
+Một ngôn ngữ đánh dấu văn bản khác mà mọi người chắc hẳn ai học CNTT cũng biết vì độ nổi tiếng của nó, chính là `HTML`, `Markdown` không mang trong mình sứ mệnh **"Kẻ huỷ diệt HTML"** hay gì, mà mục đích của nó chính là làm đơn giản hoá việc đánh dấu văn bản và tăng cường tốc độ viết lách một cách đáng kể.
 
 ## Một số trình soạn thảo dành cho Markdown
 
