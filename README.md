@@ -63,21 +63,21 @@ Một dấu # tương đương với `<h1>`, hai dấu # tương đương với 
 
 Cú pháp:
 ```
-# Heading level 1
-## Heading level 2
-### Heading level 3
-#### Heading level 4
-##### Heading level 5
-###### Heading level 6
+# Tiêu đề loại 1
+## Tiêu đề loại 2
+### Tiêu đề loại 3
+#### Tiêu đề loại 4
+##### Tiêu đề loại 5
+###### Tiêu đề loại 6
 ```
 Kết quả:
 
-# Heading level 1
-## Heading level 2
-### Heading level 3
-#### Heading level 4
-##### Heading level 5
-###### Heading level 6
+# Tiêu đề loại 1
+## Tiêu đề loại 2
+### Tiêu đề loại 3
+#### Tiêu đề loại 4
+##### Tiêu đề loại 5
+###### Tiêu đề loại 6
 
 ## Đoạn văn - Paragraph
 
