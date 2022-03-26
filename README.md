@@ -284,6 +284,18 @@ Kết quả:
 [ ![chữ](link ảnh) ] (link)
 ```
 
+## Biểu tượng cảm xúc - Icon
+
+Phần này tuỳ vào nền tảng (Github, Discord, ...) có icon đó không, bạn ghi dấu : và tên icon.
+
+Cú pháp:
+
+![image](https://user-images.githubusercontent.com/90561566/160245877-ccf277ff-094f-482c-801b-4a8fe46471b7.png)
+
+Kết quả:
+
+👁️
+
 ## Escape markdown
 
 Đôi khi bạn sẽ cần những kí hiệu trùng với cú pháp của markdown. Để phân biệt, bạn chỉ cần thêm dấu \ trước những kí hiệu đó là được.
