@@ -30,6 +30,7 @@ Có thể bạn chưa biết: `Markdown` có thể được sử dụng tại [G
   - [Khối lệnh - Block Code](#khối-lệnh---block-code)
   - [Liên kết - Link](#liên-kết---link)
   - [Hình ảnh - Image](#hình-ảnh---image)
+  - [Biểu tượng cảm xúc - Icon](#biểu-tượng-cảm-xúc---icon)
   - [Escape markdown](#escape-markdown)
   - [Bảng - Table](#bảng---table)
 - [Kết thúc](#kết-thúc)
