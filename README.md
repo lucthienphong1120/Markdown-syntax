@@ -10,34 +10,39 @@ Có thể bạn chưa biết: `Markdown` có thể được sử dụng tại [G
 
 > Tài liệu được viết tay bởi [Lục Thiên Phong](https://github.com/lucthienphong1120), để giúp bạn có thêm hiểu biết và làm chủ về Markdown.
 
-# Tóm tắt
+# Mục lục
 
-- [Sơ lược](#sơ-lược)
-  - [MarkDown (Markup languages)](#markdown-markup-languages)
-  - [Một số trình soạn thảo Markdown](#một-số-trình-soạn-thảo-markdown)
-- [Cách sử dụng](#cách-sử-dụng)
-  - [Tiêu đề - Heading](#tiêu-đề---heading)
-  - [Đoạn văn - Paragraph](#đoạn-văn---paragraph)
-  - [Chữ in đậm - Bold](#chữ-in-đậm---bold)
-  - [Chữ in nghiêng - Italic](#chữ-in-nghiêng---italic)
-  - [In đậm và in nghiêng](#in-đậm-và-in-nghiêng)
-  - [Chữ gạch giữa - Strikethrough](#chữ-gạch-giữa---strikethrough)
-  - [Trích dẫn - Blockquote](#trích-dẫn---blockquote)
-  - [Danh sách có thứ tự - Ordered List](#danh-sách-có-thứ-tự---ordered-list)
-  - [Danh sách không có thứ tự - Unordered List](#danh-sách-không-có-thứ-tự---unordered-list)
-  - [Đường kẻ ngang - Horizonal rules](#đường-kẻ-ngang---horizonal-rules)
-  - [Code trong dòng - Inline Code](#code-trong-dòng---inline-code)
-  - [Khối lệnh - Block Code](#khối-lệnh---block-code)
-  - [Liên kết - Link](#liên-kết---link)
-  - [Hình ảnh - Image](#hình-ảnh---image)
-  - [Biểu tượng cảm xúc - Icon](#biểu-tượng-cảm-xúc---icon)
-  - [Escape markdown](#escape-markdown)
-  - [Bảng - Table](#bảng---table)
-- [Kết thúc](#kết-thúc)
+[I. Sơ lược](#i-sơ-lược)
+- [1. MarkDown (Markup languages)](#1-markdown-markup-languages)
+- [2. Một số trình soạn thảo Markdown](#2-một-số-trình-soạn-thảo-markdown)
 
-# Sơ lược
+[II. Cách sử dụng](#ii-cách-sử-dụng)
+- [1. Văn bản thuần](#1-văn-bản-thuần)
+  - [1. Tiêu đề - Heading](#1-tiêu-đề---heading)
+  - [2. Đoạn văn - Paragraph](#2-đoạn-văn---paragraph)
+  - [3. Chữ in nghiêng - Italic](#3-chữ-in-nghiêng---italic)
+  - [4. Chữ in đậm - Bold](#4-chữ-in-đậm---bold)
+  - [5. In đậm và in nghiêng](#5-in-đậm-và-in-nghiêng)
+  - [6. Chữ gạch giữa - Strikethrough](#6-chữ-gạch-giữa---strikethrough)
+  - [7. Code trong dòng - Inline Code](#7-code-trong-dòng---inline-code)
+- [2. Các khối](#2-các-khối)
+  - [1. Trích dẫn - Blockquote](#1-trích-dẫn---blockquote)
+  - [2. Danh sách có thứ tự - Ordered List](#2-danh-sách-có-thứ-tự---ordered-list)
+  - [3. Danh sách không có thứ tự - Unordered List](#3-danh-sách-không-có-thứ-tự---unordered-list)
+  - [4. Khối lệnh - Block Code](#4-khối-lệnh---block-code)
+  - [5. Bảng - Table](#5-bảng---table)
+- [3. Đặc biệt](#3-đặc-biệt)
+  - [1. Đường kẻ ngang - Horizonal rules](#1-đường-kẻ-ngang---horizonal-rules)
+  - [2. Liên kết - Link](#2-liên-kết---link)
+  - [3. Hình ảnh - Image](#3-hình-ảnh---image)
+  - [4. Biểu tượng cảm xúc - Icon](#4-biểu-tượng-cảm-xúc---icon)
+  - [5. Escape markdown](#5-escape-markdown)
 
-## MarkDown (Markup languages)
+[III. Kết thúc](#iii-kết-thúc)
+
+# I. Sơ lược
+
+## 1. MarkDown (Markup languages)
 
 Sự thật là cái tên **"Markdown"** chính là một phép chơi chữ của từ **"Markup"**.
 
@@ -45,7 +50,7 @@ Mardown được sử dụng để xuất văn bản thô trên trình duyệt n
 
 Một ngôn ngữ đánh dấu văn bản khác mà mọi người chắc hẳn ai học CNTT cũng biết vì độ nổi tiếng của nó, chính là `HTML`, `Markdown` không mang trong mình sứ mệnh **"Kẻ huỷ diệt HTML"** hay gì, mà mục đích của nó chính là làm đơn giản hoá việc đánh dấu văn bản và tăng cường tốc độ viết lách một cách đáng kể.
 
-## Một số trình soạn thảo Markdown
+## 2. Một số trình soạn thảo Markdown
 
 - Mac, Windows, và Linux
   - [Typora](https://typora.io/)
@@ -62,9 +67,11 @@ Một ngôn ngữ đánh dấu văn bản khác mà mọi người chắc hẳn 
   - Vi,nano,...
   - Github,Discord,...
 
-# Cách sử dụng
+# II. Cách sử dụng
 
-## Tiêu đề - Heading
+## 1. Văn bản thuần
+
+### 1 Tiêu đề - Heading
 
 Bạn có thể viết loại tiêu đề `<h1>, <h2>,... <h6>` bằng cách thêm các dấu # tương ứng vào đầu dòng.
 
@@ -88,7 +95,7 @@ Kết quả:
 ##### Tiêu đề loại 5
 ###### Tiêu đề loại 6
 
-## Đoạn văn - Paragraph
+### 2. Đoạn văn - Paragraph
 
 Để xuống dòng giữa các văn bản `<p>`, sử dụng một dòng trống để tách các dòng văn bản.
 
@@ -104,23 +111,7 @@ Kết quả:
 
 Đây là dòng 2
 
-## Chữ in đậm - Bold
-
-Để in đậm văn bản `<b>`, thêm hai dấu * hoặc dấu _ trước và sau từ cần in đậm.
-
-Cú pháp:
-```
-**Từ cần in đậm 1**
-
-__Từ cần in đậm 2__
-```
-Kết quả:
-
-**Từ cần in đậm 1**
-
-__Từ cần in đậm 2__
-
-## Chữ in nghiêng - Italic
+### 3. Chữ in nghiêng - Italic
 
 Để in nghiêng văn bản `<i>`, thêm một dấu * hoặc dấu _ trước và sau từ cần in nghiêng.
 
@@ -136,7 +127,23 @@ Kết quả:
 
 _Từ cần in nghiêng 2_
 
-## In đậm và in nghiêng
+### 4. Chữ in đậm - Bold
+
+Để in đậm văn bản `<b>`, thêm hai dấu * hoặc dấu _ trước và sau từ cần in đậm.
+
+Cú pháp:
+```
+**Từ cần in đậm 1**
+
+__Từ cần in đậm 2__
+```
+Kết quả:
+
+**Từ cần in đậm 1**
+
+__Từ cần in đậm 2__
+
+### 5. In đậm và in nghiêng
 
 Đơn giản, bạn chỉ cần ba dấu * hoặc dấu _ trước và sau từ đó.
 
@@ -152,7 +159,7 @@ Kết quả:
 
 ___Từ in đậm và in nghiêng 2___
 
-## Chữ gạch giữa - Strikethrough
+### 6. Chữ gạch giữa - Strikethrough
 
 Để tạo chữ gạch giữa, thêm 2 dấu ~ trước và sau từ đó.
 
@@ -164,8 +171,21 @@ Kết quả:
 
 ~~Khuyến mại~~
 
+### 7. Code trong dòng - Inline Code
 
-## Trích dẫn - Blockquote
+Để viết inline code, bạn dùng 2 dấu ` ở trước và sau từ đó.
+
+Cú pháp:
+```
+`inline code`
+```
+Kết quả:
+
+`inline code`
+
+## 2. Các khối
+
+### 1. Trích dẫn - Blockquote
 
 Để tạo một blockquote, thêm dấu > vào trước mỗi dòng trích dẫn.
 
@@ -179,7 +199,7 @@ Kết quả:
 > Trích dẫn dòng 1
 > Trích dẫn dòng 2
 
-## Danh sách có thứ tự - Ordered List
+### 2. Danh sách có thứ tự - Ordered List
 
 Để tạo danh sách `<ol><li>`, bạn chỉ cần thêm các số, dấu chấm trước nội dung (dùng tab để phân cấp)
 
@@ -195,7 +215,7 @@ Kết quả:
 2. Mục thứ hai
 3. Mục thứ ba
 
-## Danh sách không có thứ tự - Unordered List
+### 3. Danh sách không có thứ tự - Unordered List
 
 Để tạo danh sách `<ul><li>`, bạn chỉ cần thêm dấu * hoặc - hoặc + trước nội dung (dùng tab để phân cấp)
 
@@ -211,7 +231,43 @@ Kết quả:
 - Mục thứ hai
 - Mục thứ ba
 
-## Đường kẻ ngang - Horizonal rules
+### 4. Khối lệnh - Block Code
+
+Để viết 1 đoạn `code`, bạn dùng 3 dấu ` ở trước và sau đoạn đó (có thể thêm format ngôn ngữ đó).
+
+Cú pháp:
+
+![image](https://user-images.githubusercontent.com/90561566/160242871-aad90ad1-bd8d-4e5c-9146-3349fb7c8c98.png)
+
+Kết quả:
+
+```python
+print("hello world")
+```
+
+### 5. Bảng - Table
+
+Để tạo bảng `<table><tbody><tr><th><th>`, bạn chỉ cần ngăn cách bởi dấu | và cách đầu bảng với thân bảng bằng :--- (số dấu - tuỳ ý)
+
+Cú pháp:
+```
+| Cột 1 | Cột 2 | Cột 3 | Cột 4 |
+| :--- | :--- | :--- | :--- |
+| A | B | C | D |
+| E | F | G | H |
+| I | K | L | M |
+```
+Kết quả
+
+| Cột 1 | Cột 2 | Cột 3 | Cột 4 |
+| :--- | :--- | :--- | :--- |
+| A | B | C | D |
+| E | F | G | H |
+| I | K | L | M |
+
+## 3. Đặc biệt
+
+### 1. Đường kẻ ngang - Horizonal rules
 
 Để tạo đường kẻ ngang, sử dụng ba dấu * hoặc - hoặc _ trên một dòng.
 
@@ -227,33 +283,7 @@ Kết quả:
 ***
 ___
 
-## Code trong dòng - Inline Code
-
-Để viết inline code, bạn dùng 2 dấu ` ở trước và sau từ đó.
-
-Cú pháp:
-```
-`inline code`
-```
-Kết quả:
-
-`inline code`
-
-## Khối lệnh - Block Code
-
-Để viết 1 đoạn `code`, bạn dùng 3 dấu ` ở trước và sau đoạn đó (có thể thêm format ngôn ngữ đó).
-
-Cú pháp:
-
-![image](https://user-images.githubusercontent.com/90561566/160242871-aad90ad1-bd8d-4e5c-9146-3349fb7c8c98.png)
-
-Kết quả:
-
-```python
-print("hello world")
-```
-
-## Liên kết - Link
+### 2. Liên kết - Link
 
 Để chèn trực tiếp, bạn có thể paste thẳng nó như bình thường.
 
@@ -271,7 +301,7 @@ Trực tiếp: https://github.com/lucthienphong1120
 
 Gián tiếp: [Github](https://github.com/lucthienphong1120)
 
-## Hình ảnh - Image
+### 3. Hình ảnh - Image
 
 Để chèn trực tiếp, bạn có thể paste thẳng nó như bình thường.
 
@@ -293,7 +323,7 @@ Kết quả:
 [ ![chữ](link ảnh) ] (link)
 ```
 
-## Biểu tượng cảm xúc - Icon
+### 4. Biểu tượng cảm xúc - Icon
 
 Phần này tuỳ vào nền tảng (Github, Discord, ...) có icon đó không, bạn ghi dấu : và tên icon.
 
@@ -305,7 +335,7 @@ Kết quả:
 
 👁️
 
-## Escape markdown
+### 5. Escape markdown
 
 Đôi khi bạn sẽ cần những kí hiệu trùng với cú pháp của markdown. Để phân biệt, bạn chỉ cần thêm dấu \ trước những kí hiệu đó là được.
 
@@ -321,27 +351,7 @@ Kết quả:
 
 \*\*\*ba dấu sao hai bên\*\*\*
 
-## Bảng - Table
-
-Để tạo bảng `<table><tbody><tr><th><th>`, bạn chỉ cần ngăn cách bởi dấu | và cách đầu bảng với thân bảng bằng :--- (số dấu - tuỳ ý)
-
-Cú pháp:
-```
-| Cột 1 | Cột 2 | Cột 3 | Cột 4 |
-| :--- | :--- | :--- | :--- |
-| A | B | C | D |
-| E | F | G | H |
-| I | K | L | M |
-```
-Kết quả
-
-| Cột 1 | Cột 2 | Cột 3 | Cột 4 |
-| :--- | :--- | :--- | :--- |
-| A | B | C | D |
-| E | F | G | H |
-| I | K | L | M |
-
-# Kết thúc
+# III. Kết thúc
 
 Hy vọng qua bài viết này, bạn sẽ không còn thấy Markdown khó nữa và sẽ nắm được cách dùng Markdown trong nhiều việc của mình hơn nhé.
 
