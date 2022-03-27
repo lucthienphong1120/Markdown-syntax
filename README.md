@@ -61,7 +61,7 @@ Một ngôn ngữ đánh dấu văn bản khác mà mọi người chắc hẳn 
   - [StackEdit](https://stackedit.io/) 
   - [Dillinger](https://dillinger.io/)
   - [Hashify](https://hashify.me/)
-- Sau bài viết này, bạn có thể viết luôn mà không cần chuyển đổi
+- Sau bài viết này, bạn có thể viết md mà không cần chuyển đổi
   - Notepad
   - Visual Studio Code
   - Visual Code
