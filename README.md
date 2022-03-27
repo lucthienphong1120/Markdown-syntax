@@ -14,7 +14,7 @@ Có thể bạn chưa biết: `Markdown` có thể được sử dụng tại [G
 
 - [Sơ lược](#sơ-lược)
   - [MarkDown (Markup languages)](#markdown-markup-languages)
-  - [Một số trình soạn thảo dành cho Markdown](#một-số-trình-soạn-thảo-dành-cho-markdown)
+  - [Một số trình soạn thảo Markdown](#một-số-trình-soạn-thảo-markdown)
 - [Cách sử dụng](#cách-sử-dụng)
   - [Tiêu đề - Heading](#tiêu-đề---heading)
   - [Đoạn văn - Paragraph](#đoạn-văn---paragraph)
@@ -45,12 +45,13 @@ Mardown được sử dụng để xuất văn bản thô trên trình duyệt n
 
 Một ngôn ngữ đánh dấu văn bản khác mà mọi người chắc hẳn ai học CNTT cũng biết vì độ nổi tiếng của nó, chính là `HTML`, `Markdown` không mang trong mình sứ mệnh **"Kẻ huỷ diệt HTML"** hay gì, mà mục đích của nó chính là làm đơn giản hoá việc đánh dấu văn bản và tăng cường tốc độ viết lách một cách đáng kể.
 
-## Một số trình soạn thảo dành cho Markdown
+## Một số trình soạn thảo Markdown
 
 - Mac, Windows, và Linux
   - [Typora](https://typora.io/)
   - [MacDown](https://macdown.uranusjr.com/)
 - Online
+  - [StackEdit](https://stackedit.io/) 
   - [Dillinger](https://dillinger.io/)
   - [Hashify](https://hashify.me/)
 
