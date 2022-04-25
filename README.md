@@ -175,7 +175,7 @@ Kết quả:
 
 ### 7. Code trong dòng - Inline Code
 
-Để viết inline code, bạn dùng 2 dấu ` ở trước và sau từ đó.
+Để viết inline `<code>`, bạn dùng 2 dấu ` ở trước và sau từ đó.
 
 Cú pháp:
 ```
@@ -189,7 +189,7 @@ Kết quả:
 
 ### 1. Trích dẫn - Blockquote
 
-Để tạo một blockquote, thêm dấu > vào trước mỗi dòng trích dẫn.
+Để tạo một `<blockquote>`, thêm dấu > vào trước mỗi dòng trích dẫn.
 
 Cú pháp:
 ```
@@ -235,7 +235,7 @@ Kết quả:
 
 ### 4. Khối lệnh - Block Code
 
-Để viết 1 đoạn `code`, bạn dùng 3 dấu ` ở trước và sau đoạn đó (có thể thêm format ngôn ngữ đó).
+Để viết 1 đoạn `<code>`, bạn dùng 3 dấu ` ở trước và sau đoạn đó (có thể thêm format ngôn ngữ đó).
 
 Cú pháp:
 
