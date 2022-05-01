@@ -38,7 +38,8 @@ Có thể bạn chưa biết: `Markdown` có thể được sử dụng tại [G
   - [2. Liên kết - Link](#2-liên-kết---link)
   - [3. Hình ảnh - Image](#3-hình-ảnh---image)
   - [4. Biểu tượng cảm xúc - Icon](#4-biểu-tượng-cảm-xúc---icon)
-  - [5. Escape markdown](#5-escape-markdown)
+  - [5. Checkbox](#5-checkbox)
+  - [6. Escape markdown](#6-escape-markdown)
 
 [III. Kết thúc](#iii-kết-thúc)
 
@@ -337,7 +338,23 @@ Kết quả:
 
 👁️
 
-### 5. Escape markdown
+### 5. Checkbox
+
+Để chèn `checkbox/checked` (thường dùng cho to do list trên github) thì ta đánh dấu như list và thêm 1 cặp ngoặc vuông.
+
+Cú pháp:
+
+```
+- [ ] Checkbox
+- [x] Checked
+```
+
+Kết quả:
+
+- [ ] Checkbox
+- [x] Checked
+
+### 6. Escape markdown
 
 Đôi khi bạn sẽ cần những kí hiệu trùng với cú pháp của markdown. Để phân biệt, bạn chỉ cần thêm dấu \ trước những kí hiệu đó là được.
 
