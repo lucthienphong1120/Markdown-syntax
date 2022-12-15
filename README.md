@@ -338,6 +338,8 @@ Kết quả:
 
 👁️
 
+> More information: https://github.com/lucthienphong1120/Github-Emojis
+
 ### 5. Checkbox
 
 Để chèn `checkbox/checked` (thường dùng cho to do list trên github) thì ta đánh dấu như list và thêm 1 cặp ngoặc vuông.
